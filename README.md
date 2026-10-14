@@ -1,16 +1,13 @@
-## Hi there 👋
-
-<!--
-**risejoaquin/risejoaquin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <samp>
+    <b>stack</b>
+    <br><br>
+    TypeScript · JavaScript · C# · Python · Go · SQL
+    <br>
+    React · Vite · Tailwind CSS · Node.js · Express · ASP.NET Core
+    <br>
+    PostgreSQL · SQLite · Supabase
+    <br>
+    Git · Docker · GitHub Actions · Railway
+  </samp>
+</p>
